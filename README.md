@@ -1,4 +1,6 @@
 # consumer_complaints_analysis
+EXCEL
+
 ![image](https://github.com/JERRYTANWER/consumer_complaints_analysis/assets/117863519/7e954a72-bb5c-4df1-b8dc-4f83047cf9e9)
 
 The project comprises five main tasks, each focusing on a specific aspect of consumer complaint analysis and reporting:
